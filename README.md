@@ -17,14 +17,6 @@
 <!-- <h3> Recent Activity </h3>
 
 
-
-1. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/7) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-2. ❌ Closed PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
-3. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/6) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-4. 🎉 Merged PR [#1](https://github.com/Apurva-tech/Assist-U/pull/1) in [Apurva-tech/Assist-U](https://github.com/Apurva-tech/Assist-U)
-5. 💪 Opened PR [#1](https://github.com/Apurva-tech/Assist-U/pull/1) in [Apurva-tech/Assist-U](https://github.com/Apurva-tech/Assist-U)
-
-
 </p> -->
 <!--END_SECTION:activity-->
 
@@ -79,23 +71,19 @@
     </tr>
   </tbody>
 </table>
-<!-- 
-<strong><h3> 🌟 Top Lanaguages </h3></strong>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
  <strong><h3> 🌟 GitHub Stats </h3></strong>
 <a href="https://github-readme-stats.vercel.app/api?username=TarunWebdev&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=TarunWebdev&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 
-[![Tarun Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TarunWebdev&custom_title=My%20Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
 <a href = https://github.com/TarunWebdev target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
 <a href = https://linkedin.com/in/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 <a href = https://twitter.com/tarunsharmaa_ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
-<!-- <a href = https://medium.com/@cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='45' weight='45'/></a> -->
 <a href = https://instagram.com/tarunsharmaa___ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <a href = https://www.facebook.com/sharma.montysharma/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
 <br>
