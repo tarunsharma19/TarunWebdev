@@ -73,7 +73,7 @@
 </table>
 
 <strong><h3> 🌟 Top Lanaguages </h3></strong>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunWebdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?TarunWebDev" frameborder="0"></iframe>
 
 
  <strong><h3> 🌟 GitHub Stats </h3></strong>
