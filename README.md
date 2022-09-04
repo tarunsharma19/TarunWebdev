@@ -73,7 +73,8 @@
 </table>
 
 <strong><h3> 🌟 Top Lanaguages </h3></strong>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?TarunWebDev" frameborder="0"></iframe>
+<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?TarunWebDev" frameborder="0"></iframe> -->
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <strong><h3> 🌟 GitHub Stats </h3></strong>
