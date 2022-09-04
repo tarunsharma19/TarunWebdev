@@ -74,7 +74,7 @@
 
 <strong><h3> 🌟 Top Lanaguages </h3></strong>
 <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?TarunWebDev" frameborder="0"></iframe> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunWebDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunWebDev&layout=compact&theme=tokyonight)](https://github.com/TarunWebDev/github-readme-stats)
 
 
  <strong><h3> 🌟 GitHub Stats </h3></strong>
